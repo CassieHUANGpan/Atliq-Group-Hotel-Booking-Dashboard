@@ -1,5 +1,5 @@
-# Atliq-Group-Hotel-Booking-Dashboard
-# Create a dashboard for hotels booking to show all the key metrics for the Atliq Group
+# Atliq-Group-Hotel-Booking-PowerBI Dashboard
+# Create a PowerBI dashboard for hotels booking to show all the key metrics for the Atliq Group
 
 #### Domain:  Hospitality       
 #### Function: Revenue
