@@ -24,3 +24,6 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+
+![dashboard](https://github.com/CassieHUANGpan/Atliq-Group-Hotel-Booking-Dashboard/assets/117584592/1e1c3cb3-efc3-4e58-a4b4-b696fdf4c695)
